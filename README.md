@@ -17,6 +17,9 @@ The included lists should:
 * [Incremental Learning / Lifelong Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * [Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 
+
+* [Deep Learning (did not update since 2016)](https://github.com/terryum/awesome-deep-learning-papers)
+
 ## Applications
 
 ### Computer Vision (CV)
@@ -24,8 +27,12 @@ The included lists should:
 * Object Detection
   * [Aerial Object Detection](https://github.com/murari023/awesome-aerial-object-detection)
   * [Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
+  
+
+* [Awesome Deep Vision (did not update since 2016)](https://github.com/kjw0612/awesome-deep-vision)
 
 ### Natural Language Processing (NLP)
 
 ## Tools For Research
 
+[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
