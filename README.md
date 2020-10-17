@@ -15,6 +15,7 @@ The included lists should:
 
 * [AutoML](https://github.com/hibayesian/awesome-automl-papers)
 * [Automated Deep Learning](https://github.com/D-X-Y/Awesome-AutoDL)
+* [Causality](https://github.com/rguo12/awesome-causality-algorithms)
 * [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 * [Decision Tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 * [Generative Adversarial (Neural) Networks](https://github.com/nightrome/really-awesome-gan#papers)
@@ -28,13 +29,18 @@ The included lists should:
   * [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
 * [Incremental Learning / Lifelong Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * [Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
+* [Interpretability 2](https://github.com/lopusz/awesome-interpretable-machine-learning)
 * [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+* [Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
 * [Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 * [Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 * [Neural Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 * [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+* [Reinforcement Learning 2](https://github.com/tigerneil/awesome-deep-rl)
 * [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
+* [Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
 
+* [Machine Learning Surveys (did not update since 2017)](https://github.com/metrofun/machine-learning-surveys)
 * [Deep Learning (did not update since 2016)](https://github.com/terryum/awesome-deep-learning-papers)
 
 ## Applications
@@ -51,6 +57,7 @@ The included lists should:
 * [Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 * [Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
 * [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
+* [Image Retrieval](https://github.com/willard-yuan/awesome-cbir-papers)
 * [Medical Image Synthesis](https://github.com/xinario/awesome-gan-for-medical-imaging)
 * [Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 * [Scene Text Localization & Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
@@ -69,10 +76,14 @@ The included lists should:
 ### Other Applications
 
 * [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources#4-papers)
+* [Anomaly Detection 2](https://github.com/hoya012/awesome-anomaly-detection)
+* [AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security)
 * [Computational Biology](https://github.com/gokceneraslan/awesome-deepbio)
+* [Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
 * [Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Database Learning](https://github.com/pingcap/awesome-database-learning)
 * [Deep Learning for Music (DL4M)](https://github.com/ybayle/awesome-deep-learning-music)
+* [Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
 * [Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection#research-papers)
 
 * [Autonomous Vehicles (did not update since 2016)](https://github.com/manfreddiaz/awesome-autonomous-vehicles#papers)
