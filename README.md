@@ -30,6 +30,7 @@ The included lists should:
 * [Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
 * [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 * [Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
+* [Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 * [Neural Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 * [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 * [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
@@ -72,6 +73,9 @@ The included lists should:
 * [Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Database Learning](https://github.com/pingcap/awesome-database-learning)
 * [Deep Learning for Music (DL4M)](https://github.com/ybayle/awesome-deep-learning-music)
+* [Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection#research-papers)
+
+* [Autonomous Vehicles (did not update since 2016)](https://github.com/manfreddiaz/awesome-autonomous-vehicles#papers)
 
 ## New Paper Recommendation
 
