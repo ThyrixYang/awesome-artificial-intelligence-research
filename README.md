@@ -10,6 +10,16 @@ The included lists should:
 2. Cover up-to-date publications from top converences and journals such as NeurIPS, ICML, TPAMI, etc.
 3. Recommend some good tutorial or survey if possible (optional).
 
+ * [Machine Learning (ML)](#machine-learning--ml-)
+ * [Applications](#applications)
+   + [Computer Vision (CV)](#computer-vision--cv-)
+   + [Natural Language Processing (NLP)](#natural-language-processing--nlp-)
+   + [Audio & Speech](#audio---speech)
+   + [Other Applications](#other-applications)
+ * [New Paper Recommendation](#new-paper-recommendation)
+ * [Tools For Research](#tools-for-research)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Machine Learning (ML)
 
