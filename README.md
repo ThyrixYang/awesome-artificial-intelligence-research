@@ -21,6 +21,7 @@ All the papers are available [here](https://proceedings.neurips.cc/paper/2020).
 * [Causality](https://github.com/rguo12/awesome-causality-algorithms)
 * [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 * [Decision Tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+* [Federated Learning](https://github.com/weimingwill/awesome-federated-learning)
 * [Generative Adversarial (Neural) Networks](https://github.com/nightrome/really-awesome-gan#papers)
 * Graph / Network Learning
   * [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
