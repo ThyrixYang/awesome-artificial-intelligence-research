@@ -10,6 +10,10 @@ The included lists should:
 2. Cover up-to-date publications from top converences and journals such as NeurIPS, ICML, TPAMI, etc.
 3. Recommend some good tutorial or survey if possible (optional).
 
+## The NeurIPS 2020 papers have been published !
+
+All the papers are available [here](https://proceedings.neurips.cc/paper/2020).
+
 ## Machine Learning (ML)
 
 * [AutoML](https://github.com/hibayesian/awesome-automl-papers)
