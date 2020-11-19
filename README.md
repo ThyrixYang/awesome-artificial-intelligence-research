@@ -17,6 +17,7 @@ All the papers are available [here](https://proceedings.neurips.cc/paper/2020).
 ## Machine Learning (ML)
 
 * [AutoML](https://github.com/hibayesian/awesome-automl-papers)
+* [Adversarial Machine Learning (AML)](https://github.com/wangjksjtu/awesome-AML)
 * [Automated Deep Learning](https://github.com/D-X-Y/Awesome-AutoDL)
 * [Causality](https://github.com/rguo12/awesome-causality-algorithms)
 * [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
