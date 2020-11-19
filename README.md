@@ -85,6 +85,7 @@ The included lists should:
 * [Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Database Learning](https://github.com/pingcap/awesome-database-learning)
 * [Deep Learning for Music (DL4M)](https://github.com/ybayle/awesome-deep-learning-music)
+* [Recommender System](https://github.com/scnu-dil/awesome-RecSys)
 * [Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
 * [Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection#research-papers)
 
