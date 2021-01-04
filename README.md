@@ -73,6 +73,7 @@ The included lists should:
 
 ### Audio & Speech
 
+* [Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement)
 * [Speech Recognition & Speech Synthesis](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 
 ### Other Applications
