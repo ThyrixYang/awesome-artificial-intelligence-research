@@ -61,6 +61,7 @@ The included lists should:
 * [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
 * [Image Retrieval](https://github.com/willard-yuan/awesome-cbir-papers)
 * [Medical Image Synthesis](https://github.com/xinario/awesome-gan-for-medical-imaging)
+* [Multi Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)
 * [Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 * [Scene Text Localization & Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
 * [Text Detection Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
