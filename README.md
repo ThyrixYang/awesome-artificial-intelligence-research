@@ -53,6 +53,7 @@ The included lists should:
 * [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 * Object Detection
   * [Object Detection](https://github.com/amusi/awesome-object-detection)
+  * [Object Detection 2](https://github.com/hoya012/deep_learning_object_detection)
   * [Aerial Object Detection](https://github.com/murari023/awesome-aerial-object-detection)
   * [Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
   * [Lane Detection](https://github.com/amusi/awesome-lane-detection)
