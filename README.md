@@ -37,6 +37,7 @@ The included lists should:
 * [Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 * [Neural Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 * [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+* [Online Learning](https://github.com/MaxHalford/awesome-online-machine-learning)
 * [Reinforcement Learning 2](https://github.com/tigerneil/awesome-deep-rl)
 * [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 * [Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
