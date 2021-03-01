@@ -31,6 +31,7 @@ The included lists should:
 * [Incremental Learning / Lifelong Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * [Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
 * [Interpretability 2](https://github.com/lopusz/awesome-interpretable-machine-learning)
+* [Interpretability & Explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 * [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 * [Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
 * [Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
