@@ -80,6 +80,7 @@ The included lists should:
 
 * [Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement)
 * [Speech Recognition & Speech Synthesis](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+* [Speech Synthesis](https://github.com/xcmyz/speech-synthesis-paper)
 
 ### Other Applications
 
