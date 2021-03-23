@@ -37,6 +37,7 @@ The included lists should:
 * [Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 * [Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 * [Neural Architecture Search](https://github.com/markdtw/awesome-architecture-search)
+* [Partial Label Learning](https://github.com/wwangwitsel/awesome-partial-label-learning)
 * [Reasoning](https://github.com/floodsung/Deep-Reasoning-Papers)
 * [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 * [Online Learning](https://github.com/MaxHalford/awesome-online-machine-learning)
