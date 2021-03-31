@@ -24,6 +24,7 @@ The included lists should:
   * [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
   * [Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
   * [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+  * [Graph Based Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature)
   * [Knowledge Representation Learning](https://github.com/thunlp/KRLPapers)
   * [Network Embedding](https://github.com/chihming/awesome-network-embedding)
   * [Network Representation Learning](https://github.com/thunlp/NRLPapers)
