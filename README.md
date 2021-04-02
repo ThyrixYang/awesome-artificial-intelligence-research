@@ -41,6 +41,7 @@ The included lists should:
 * [Partial Label Learning](https://github.com/wwangwitsel/awesome-partial-label-learning)
 * [Reasoning](https://github.com/floodsung/Deep-Reasoning-Papers)
 * [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+* [Open World Learning](https://github.com/zhoudw-zdw/Awesome-open-world-learning)
 * [Online Learning](https://github.com/MaxHalford/awesome-online-machine-learning)
 * [Reinforcement Learning 2](https://github.com/tigerneil/awesome-deep-rl)
 * [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
