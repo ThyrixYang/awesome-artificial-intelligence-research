@@ -10,7 +10,7 @@ The included lists should:
 2. Cover up-to-date publications from top converences and journals such as NeurIPS, ICML, TPAMI, etc.
 3. Recommend some good tutorial or survey if possible (optional).
 
-## Machine Learning (ML)
+## Machine Learning (ML) and Data Mining (DM)
 
 * [AutoML](https://github.com/hibayesian/awesome-automl-papers)
 * [Adversarial Machine Learning (AML)](https://github.com/wangjksjtu/awesome-AML)
