@@ -34,6 +34,7 @@ The included lists should:
 * [Interpretability 2](https://github.com/lopusz/awesome-interpretable-machine-learning)
 * [Interpretability & Explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 * [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+* [Knowledge Graph](https://github.com/shaoxiongji/knowledge-graphs)
 * [Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
 * [Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 * [Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
