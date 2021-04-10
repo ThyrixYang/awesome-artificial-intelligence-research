@@ -56,6 +56,7 @@ The included lists should:
 ### Computer Vision (CV)
 
 * [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+* [Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 * [Denoising](https://github.com/oneTaken/Awesome-Denoise)
 * [Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 * Object Detection
