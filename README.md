@@ -79,6 +79,7 @@ The included lists should:
 
 ### Natural Language Processing (NLP)
 
+* [Natural Language Generation](https://github.com/tokenmill/awesome-nlg)
 * [Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)
 
 ### Audio & Speech
