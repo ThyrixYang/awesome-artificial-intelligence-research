@@ -45,7 +45,9 @@ The included lists should:
 * [Open World Learning](https://github.com/zhoudw-zdw/Awesome-open-world-learning)
 * [Online Learning](https://github.com/MaxHalford/awesome-online-machine-learning)
 * [Reinforcement Learning 2](https://github.com/tigerneil/awesome-deep-rl)
-* [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
+* Self Supervised Learning
+  * [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
+  * [Self-Supervised-GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
 
 * [Machine Learning Surveys (did not update since 2017)](https://github.com/metrofun/machine-learning-surveys)
