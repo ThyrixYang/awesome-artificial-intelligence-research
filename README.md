@@ -111,6 +111,10 @@ The included lists should:
 
 * [Awesome NLP Paper Discussions (by The Hugging Face team)](https://github.com/huggingface/awesome-papers)
 
+## Surveys
+
+* [Machine Learning Surveys](https://github.com/eugeneyan/ml-surveys)
+
 ## Tools For Research
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
