@@ -101,6 +101,7 @@ The included lists should:
 * [Database Learning](https://github.com/pingcap/awesome-database-learning)
 * [Deep Learning for Music (DL4M)](https://github.com/ybayle/awesome-deep-learning-music)
 * [Recommender System](https://github.com/scnu-dil/awesome-RecSys)
+* [Recommender System 2](https://github.com/hongleizhang/RSPapers)
 * [Search \& Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)
 * [Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
 * [Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection#research-papers)
