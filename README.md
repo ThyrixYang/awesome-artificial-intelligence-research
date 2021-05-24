@@ -30,7 +30,9 @@ The included lists should:
   * [Network Embedding](https://github.com/chihming/awesome-network-embedding)
   * [Network Representation Learning](https://github.com/thunlp/NRLPapers)
   * [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
-* [Incremental Learning / Lifelong Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
+* Incremental Learning / Continual Learning / Lifelong Learning
+  * [Incremental Learning / Lifelong Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
+  * [Continual Learning](https://github.com/optimass/continual_learning_papers)
 * [Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers)
 * [Interpretability 2](https://github.com/lopusz/awesome-interpretable-machine-learning)
 * [Interpretability & Explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
