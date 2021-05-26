@@ -15,6 +15,7 @@ The included lists should:
 * [AutoML](https://github.com/hibayesian/awesome-automl-papers)
 * [Adversarial Machine Learning (AML)](https://github.com/wangjksjtu/awesome-AML)
 * [Automated Deep Learning](https://github.com/D-X-Y/Awesome-AutoDL)
+* [Bayesian Deep Learning](https://github.com/js05212/BayesianDeepLearning-Survey)
 * [Causality](https://github.com/rguo12/awesome-causality-algorithms)
 * [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 * [Decision Tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
