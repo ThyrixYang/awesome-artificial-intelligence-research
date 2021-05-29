@@ -80,6 +80,7 @@ The included lists should:
 * [Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 * [Scene Text Localization & Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
 * [Text Detection Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
+* [Transformer Architectures](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
 * [Awesome Deep Vision (did not update since 2016)](https://github.com/kjw0612/awesome-deep-vision)
 
