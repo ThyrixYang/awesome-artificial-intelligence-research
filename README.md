@@ -53,6 +53,7 @@ The included lists should:
   * [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
   * [Self-Supervised-GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [Transfer Learning](https://github.com/artix41/awesome-transfer-learning)
+* [Uncertainty](https://github.com/ahmedmalaa/deep-learning-uncertainty)
 
 * [Machine Learning Surveys (did not update since 2017)](https://github.com/metrofun/machine-learning-surveys)
 * [Deep Learning (did not update since 2016)](https://github.com/terryum/awesome-deep-learning-papers)
