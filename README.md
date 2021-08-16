@@ -110,6 +110,7 @@ The included lists should:
   * [Recommender System](https://github.com/scnu-dil/awesome-RecSys)
   * [Recommender System 2](https://github.com/hongleizhang/RSPapers)
   * [Real Time Bidding](https://github.com/wnzhang/rtb-papers)
+  * [Search Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)
 * [Search \& Recommendation Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)
 * [Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
 * [Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection#research-papers)
