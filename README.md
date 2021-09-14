@@ -78,7 +78,9 @@ The included lists should:
 * [Image Retrieval](https://github.com/willard-yuan/awesome-cbir-papers)
 * [Medical Image Synthesis](https://github.com/xinario/awesome-gan-for-medical-imaging)
 * [Multi Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)
-* [Point Cloud Analysis](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021)
+* Point Cloud
+  * [Point Cloud Analysis](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021)
+  * [Point Cloud](https://github.com/zhulf0804/3D-PointCloud)
 * [Scene Text Localization & Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
 * [Text Detection Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 * [Transformer Architectures](https://github.com/dk-liang/Awesome-Visual-Transformer)
