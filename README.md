@@ -31,6 +31,7 @@ The included lists should:
   * [Network Embedding](https://github.com/chihming/awesome-network-embedding)
   * [Network Representation Learning](https://github.com/thunlp/NRLPapers)
   * [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
+  * [Self-Supervised-GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * Incremental Learning / Continual Learning / Lifelong Learning
   * [Incremental Learning / Lifelong Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
   * [Continual Learning](https://github.com/optimass/continual_learning_papers)
