@@ -23,6 +23,7 @@ The included lists should:
 * [Generative Adversarial (Neural) Networks](https://github.com/nightrome/really-awesome-gan#papers)
 * Graph / Network Learning
   * [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+  * [Graph Adversarial Learning](https://github.com/safe-graph/graph-adversarial-learning-literature)
   * [Graph Neural Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
   * [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
   * [Graph Based Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature)
