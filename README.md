@@ -19,7 +19,9 @@ The included lists should:
 * [Causality](https://github.com/rguo12/awesome-causality-algorithms)
 * [Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 * [Decision Tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
-* [Federated Learning](https://github.com/weimingwill/awesome-federated-learning)
+* Federated Learning
+  * [Federated Learning](https://github.com/weimingwill/awesome-federated-learning)
+  * [Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
 * [Generative Adversarial (Neural) Networks](https://github.com/nightrome/really-awesome-gan#papers)
 * Graph / Network Learning
   * [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
