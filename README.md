@@ -81,6 +81,7 @@ Artificial Intelligence (AI) has become a vast research area, with tens of thous
 * [Scene Text Localization & Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
 * [Text Detection Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 * [Transformer Architectures](https://github.com/dk-liang/Awesome-Visual-Transformer)
+* [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
 
 * [Awesome Deep Vision (did not update since 2016)](https://github.com/kjw0612/awesome-deep-vision)
 
