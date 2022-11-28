@@ -79,6 +79,7 @@ Artificial Intelligence (AI) has become a vast research area, with tens of thous
   * [Point Cloud Analysis](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021)
   * [Point Cloud](https://github.com/zhulf0804/3D-PointCloud)
 * [Scene Text Localization & Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
+* [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization)
 * [Text Detection Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 * [Transformer Architectures](https://github.com/dk-liang/Awesome-Visual-Transformer)
 * [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
