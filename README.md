@@ -88,6 +88,7 @@ Artificial Intelligence (AI) has become a vast research area, with tens of thous
 
 ### Natural Language Processing (NLP)
 
+* [LLM robustness / debugging / reliability](https://github.com/onestardao/WFGY)
 * [Natural Language Generation](https://github.com/tokenmill/awesome-nlg)
 * [Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding)
 
