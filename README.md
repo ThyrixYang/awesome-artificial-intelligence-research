@@ -1,15 +1,16 @@
 # Awesome Artificial Intelligence (AI) Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs, and learning resources. The goal is to help researchers and beginners quickly find high-signal entry points into active AI topics.
+A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs, and learning resources. It prioritizes active, high-signal, or historically useful resources for researchers and beginners.
 
 ## Contents
 
-* [Curation Notes](#curation-notes)
 * [Foundation Models, LLMs, and Agents](#foundation-models-llms-and-agents)
   * [Large Language Models](#large-language-models)
+  * [Long-Context LLMs](#long-context-llms)
   * [Reasoning, Post-Training, and Synthetic Data](#reasoning-post-training-and-synthetic-data)
   * [RAG, Search, and Knowledge-Intensive AI](#rag-search-and-knowledge-intensive-ai)
   * [AI Agents](#ai-agents)
+  * [Agent Protocols, Memory, and Tooling](#agent-protocols-memory-and-tooling)
   * [Alignment, Safety, Security, and Trustworthiness](#alignment-safety-security-and-trustworthiness)
   * [Efficient LLMs and Systems](#efficient-llms-and-systems)
 * [Multimodal, Vision-Language, and Generative AI](#multimodal-vision-language-and-generative-ai)
@@ -19,6 +20,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
   * [Embodied AI, Robotics, and World Models](#embodied-ai-robotics-and-world-models)
 * [Core Machine Learning Research](#core-machine-learning-research)
   * [General ML, Surveys, and Methods](#general-ml-surveys-and-methods)
+  * [Data-Centric AI and Data Curation](#data-centric-ai-and-data-curation)
   * [Robustness, Interpretability, and Learning Paradigms](#robustness-interpretability-and-learning-paradigms)
   * [Reinforcement Learning](#reinforcement-learning)
   * [Federated and Privacy-Preserving ML](#federated-and-privacy-preserving-ml)
@@ -33,10 +35,6 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
   * [Models, Datasets, and Evaluation](#models-datasets-and-evaluation)
   * [Learning Paths](#learning-paths)
 
-## Curation Notes
-
-This list prioritizes resources that are actively maintained, widely cited/starred, or useful as a stable reference. Stale, duplicated, narrow, or low-quality links from the old list were removed; older resources are kept only when they remain popular or historically useful.
-
 ## Foundation Models, LLMs, and Agents
 
 ### Large Language Models
@@ -46,6 +44,10 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 * [Awesome Reasoning Foundation Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) - reasoning with language, vision, and multimodal foundation models.
 * [Awesome LLM Evaluation Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - evaluation methods, benchmarks, and survey papers.
 * [Awesome Multilingual LLMs Papers](https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers) - multilingual LLM data, training, evaluation, and applications.
+
+### Long-Context LLMs
+
+* [Thus Spake Long-Context LLM](https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM) - survey and paper list covering long-context architecture, infrastructure, training, inference, and evaluation.
 
 ### Reasoning, Post-Training, and Synthetic Data
 
@@ -57,16 +59,28 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 ### RAG, Search, and Knowledge-Intensive AI
 
 * [Awesome RAG](https://github.com/coree/awesome-rag) - retrieval-augmented generation papers, tutorials, tools, and workshops.
+* [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - research toolkit for efficient RAG pipelines, datasets, metrics, and reproducible experiments.
 * [Awesome LLM KG](https://github.com/RManLuo/Awesome-LLM-KG) - unifying LLMs and knowledge graphs.
 * [Database Learning](https://github.com/pingcap/awesome-database-learning) - database systems, data management, and ML-related database resources.
 
 ### AI Agents
 
 * [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - autonomous agent projects and resources.
+* [Awesome AI Agent Papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - weekly updated 2026 agent research papers on memory, tools, evaluation, workflows, and security.
 * [Awesome Code Agents](https://github.com/euniai/awesome-code-agents) - coding agents, software engineering agents, benchmarks, and research papers.
+* [Awesome GUI Agent](https://github.com/showlab/awesome-gui-agent) - papers and resources for multimodal GUI, browser, and computer-use agents.
+* [Awesome Computer Use](https://github.com/ranpox/awesome-computer-use) - computer-use GUI agent papers, projects, blogs, and benchmarks.
 * [Awesome Data Agents](https://github.com/HKUSTDial/awesome-data-agents) - agents for data preparation, analysis, and data management.
 * [Awesome Agents for Science](https://github.com/OSU-NLP-Group/awesome-agents4science) - LLM agents for scientific research and development.
 * [Awesome Edge AI for Multimodal Agents](https://github.com/yh-yao/awesome-edge-ai-agents) - efficient multimodal agents on mobile and edge devices.
+* [Open Deep Research](https://github.com/langchain-ai/open_deep_research) - open-source research agent implementation for iterative search, synthesis, and reporting.
+
+### Agent Protocols, Memory, and Tooling
+
+* [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - large curated list of Model Context Protocol servers for connecting agents to tools and data sources.
+* [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients) - MCP-capable clients and applications across desktop, IDE, CLI, and agent workflows.
+* [MCP Agent](https://github.com/lastmile-ai/mcp-agent) - framework and patterns for building agents on top of Model Context Protocol.
+* [Awesome Agent Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - papers, systems, and benchmarks for long-term memory, context engineering, retrieval, and reasoning in agents.
 
 ### Alignment, Safety, Security, and Trustworthiness
 
@@ -82,6 +96,7 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 * [Awesome Efficient LLM](https://github.com/horseee/Awesome-Efficient-LLM) - quantization, pruning, KV cache compression, MoE, serving, and efficient reasoning.
 * [Awesome Resource-Efficient LLM Papers](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers) - resource-efficient LLM pre-training, fine-tuning, and inference.
 * [Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops) - production LLM lifecycle, evaluation, observability, deployment, and prompt management.
+* [Model Inference Deployment](https://github.com/Yulv-git/Model-Inference-Deployment) - inference deployment frameworks across TensorRT, ONNX Runtime, OpenVINO, TVM, mobile runtimes, and edge accelerators.
 
 ## Multimodal, Vision-Language, and Generative AI
 
@@ -92,12 +107,15 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 * [Awesome Large Multimodal Models](https://github.com/FudanDISC/Awesome-Large-Multimodal-Models) - large multimodal models from input-output space perspectives.
 * [Awesome Large Vision-Language Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model) - VLM papers, medical foundation models, benchmarks, and presentations.
 * [Awesome Vision-Language Models for Vision Tasks](https://github.com/jingyi0000/VLM_survey) - VLMs for classification, detection, segmentation, and other vision tasks.
+* [Awesome Document Understanding](https://github.com/harrytea/Awesome-Document-Understanding) - document AI, OCR, layout understanding, and document-oriented MLLM resources.
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml) - classic and modern multimodal machine learning resources.
+* [MMLongBench](https://github.com/EdinburghNLP/MMLongBench) - benchmark and evaluation code for long-context vision-language models.
 
 ### Diffusion and Generative Models
 
 * [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - diffusion and score-based generative model papers and resources.
 * [Awesome Video World Models](https://github.com/hit-perfect/Awesome-Video-World-Models) - video generation and interactive world-model papers with a state/dynamics taxonomy.
+* [Awesome Video Diffusions](https://github.com/longxiang-ai/awesome-video-diffusions) - auto-updated video diffusion and video generation paper tracker.
 * [Really Awesome GAN](https://github.com/nightrome/really-awesome-gan#papers) - GAN papers and resources.
 * [Awesome Normalizing Flows](https://github.com/janosh/awesome-normalizing-flows) - normalizing flow papers and implementations.
 
@@ -106,6 +124,7 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - classic deep vision resources with high historical value.
 * [Awesome Object Detection](https://github.com/amusi/awesome-object-detection) - object detection papers.
 * [Deep Learning Object Detection](https://github.com/hoya012/deep_learning_object_detection) - object detection paper list with many classic references.
+* [3D Gaussian Splatting Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) - actively maintained 3D Gaussian Splatting paper tracker, including conference-specific lists.
 * [Awesome Lane Detection](https://github.com/amusi/awesome-lane-detection) - lane detection papers.
 * [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) - transformers for computer vision.
 * [Awesome Point Cloud Analysis](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021) - 3D point cloud papers and datasets.
@@ -140,10 +159,17 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 * [Deep Learning Uncertainty](https://github.com/ahmedmalaa/deep-learning-uncertainty) - predictive uncertainty in deep learning.
 * [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning) - online and streaming ML resources.
 
+### Data-Centric AI and Data Curation
+
+* [Awesome Open Data-Centric AI](https://github.com/Renumics/awesome-open-data-centric-ai) - open-source tools for data-centric AI on unstructured data.
+* [Data-Juicer](https://github.com/datajuicer/data-juicer) - data processing, cleaning, filtering, and analysis toolkit for foundation-model datasets.
+* [Awesome Synthetic Datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - practical resources and examples for creating synthetic text and vision datasets.
+
 ### Robustness, Interpretability, and Learning Paradigms
 
 * [Adversarial Machine Learning](https://github.com/wangjksjtu/awesome-AML) - adversarial ML papers and resources.
 * [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability#review-and-general-papers) - responsible ML, interpretability, and explainability.
+* [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - LLM interpretability tools, papers, communities, sparse autoencoders, probing, and mechanistic interpretability resources.
 * [Awesome Interpretable Machine Learning](https://github.com/lopusz/awesome-interpretable-machine-learning) - interpretable ML papers.
 * [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - explainability papers and resources.
 * [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) - distillation papers and implementations.
@@ -184,6 +210,7 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 
 * [Awesome NLG](https://github.com/tokenmill/awesome-nlg) - natural language generation papers and resources.
 * [Awesome Sentence Embedding](https://github.com/Separius/awesome-sentence-embedding) - sentence embedding resources.
+* [Awesome Large Speech Model](https://github.com/huangcanan/Awesome-Large-Speech-Model) - large speech/audio model papers, datasets, tools, applications, and benchmarks.
 * [Awesome Speech Recognition and Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - ASR and TTS papers.
 * [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) - speech enhancement papers and tutorials.
 * [Speech Synthesis Papers](https://github.com/xcmyz/speech-synthesis-paper) - speech synthesis paper list.
@@ -199,7 +226,10 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 ### Science, Medicine, and Quant
 
 * [Awesome AI for Science](https://github.com/ai-boost/awesome-ai-for-science) - AI tools, papers, datasets, and frameworks for scientific discovery.
+* [Awesome Deep Research Agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) - deep research agents, AI scientist systems, search-augmented reasoning, and research workflow papers.
+* [Awesome AI Scientist](https://github.com/ResearAI/Awesome-AI-Scientist) - survey-style collection on AI scientists, AI researchers, AI engineers, and automated research pipelines.
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) - deep learning for computational biology.
+* [Helical](https://github.com/helicalAI/helical) - framework for using and fine-tuning bio foundation models across genomics and transcriptomics.
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) - medical image synthesis papers.
 * [Awesome AI Agents for Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) - healthcare agentic AI papers and resources.
 * [Awesome Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - quant trading and ML resources.
@@ -225,8 +255,15 @@ This list prioritizes resources that are actively maintained, widely cited/starr
 * [Hugging Face Datasets](https://huggingface.co/datasets) - dataset hub for ML research.
 * [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - open model evaluation leaderboard.
 * [LMArena Leaderboard](https://lmarena.ai/leaderboard) - human-preference leaderboard for chat and multimodal models.
+* [Awesome AI Benchmarks](https://github.com/panilya/awesome-ai-benchmarks) - searchable collection of benchmarks for agents, reasoning, code, multimodal, translation, and other AI domains.
+* [Awesome LLM Eval](https://github.com/onejune2018/awesome-llm-eval) - tools, datasets, benchmarks, leaderboards, papers, and demos for LLM evaluation.
+* [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - widely used framework for evaluating language models on many benchmark tasks.
+* [OpenCompass](https://github.com/open-compass/opencompass) - open evaluation platform for LLMs and multimodal models.
+* [Simple Evals](https://github.com/openai/simple-evals) - lightweight evaluation examples and baseline eval implementations.
+* [DeepEval](https://github.com/confident-ai/deepeval) - LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - topic-centric list of public datasets.
 * [LeRobot](https://github.com/huggingface/lerobot) - open models, datasets, tools, and tutorials for robotics research.
+* [MinerU](https://github.com/OpenDataLab/MinerU) - open-source document extraction tool for converting complex PDFs and Office files into Markdown/JSON.
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - practical examples and guides for building and evaluating AI systems.
 
 ### Learning Paths
