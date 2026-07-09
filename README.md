@@ -260,8 +260,12 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - widely used framework for evaluating language models on many benchmark tasks.
 * [OpenCompass](https://github.com/open-compass/opencompass) - open evaluation platform for LLMs and multimodal models.
 * [HELM](https://github.com/stanford-crfm/helm) - holistic evaluation framework and leaderboards for language, multimodal, safety, and domain benchmarks.
+* [GAIA](https://huggingface.co/gaia-benchmark) - benchmark and leaderboard for tool-using, multimodal, web-browsing AI assistants.
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) - benchmark and evaluation harness for real-world software engineering issue resolution.
+* [SWE-Lancer](https://github.com/openai/frontier-evals/tree/main/project/swelancer) - benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.
 * [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - contamination-aware benchmark for code generation, repair, execution, and test prediction.
+* [Terminal-Bench](https://www.tbench.ai/) - realistic terminal-agent benchmark suite spanning software engineering, ML, security, and data tasks.
+* [PaperBench](https://github.com/openai/frontier-evals/tree/main/project/paperbench) - benchmark for end-to-end replication of state-of-the-art AI papers.
 * [MTEB](https://github.com/embeddings-benchmark/mteb) - embedding benchmark suite and leaderboard across languages, tasks, and modalities.
 * [Simple Evals](https://github.com/openai/simple-evals) - lightweight evaluation examples and baseline eval implementations.
 * [DeepEval](https://github.com/confident-ai/deepeval) - LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.
