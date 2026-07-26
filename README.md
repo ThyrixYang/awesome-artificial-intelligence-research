@@ -264,6 +264,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [HELM](https://github.com/stanford-crfm/helm) - holistic evaluation framework and leaderboards for language, multimodal, safety, and domain benchmarks.
 * [GAIA](https://huggingface.co/gaia-benchmark) - benchmark and leaderboard for tool-using, multimodal, web-browsing AI assistants.
 * [BrowseComp](https://openai.com/index/browsecomp/) - benchmark for browsing agents that must locate hard-to-find information on the web.
+* [ClawBench](https://claw-bench.com/) - live-web benchmark for browser agents with 283 everyday tasks, isolated execution, and replayable five-layer traces; includes the [paper](https://arxiv.org/abs/2604.08523) and [code](https://github.com/TIGER-AI-Lab/ClawBench).
 * [WebArena](https://github.com/web-arena-x/webarena) - realistic self-hosted web environment and benchmark for autonomous web agents.
 * [OSWorld](https://github.com/xlang-ai/OSWorld) - benchmark for multimodal agents completing open-ended tasks in real computer environments.
 * [tau2-bench](https://github.com/sierra-research/tau2-bench) - tool-agent-user interaction benchmark for text and voice customer-service agents.
