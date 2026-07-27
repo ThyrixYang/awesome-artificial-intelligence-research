@@ -85,6 +85,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 ### Alignment, Safety, Security, and Trustworthiness
 
 * [Awesome LLM Safety Papers](https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers) - LLM safety, alignment, jailbreaks, privacy, and robustness papers.
+* [AgentHarm](https://proceedings.iclr.cc/paper_files/paper/2025/hash/c493d23af93118975cdbc32cbe7323f5-Abstract-Conference.html) - benchmark for harmful multi-step LLM agent tasks and jailbreak robustness.
 * [Awesome AI Safety](https://github.com/Giskard-AI/awesome-ai-safety) - AI quality, testing, robustness, fairness, and privacy.
 * [Awesome AI Alignment](https://github.com/dit7ya/awesome-ai-alignment) - alignment research resources and reading paths.
 * [Awesome AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - adversarial ML, LLM security, and broader AI security.
@@ -107,6 +108,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Large Multimodal Models](https://github.com/FudanDISC/Awesome-Large-Multimodal-Models) - large multimodal models from input-output space perspectives.
 * [Awesome Large Vision-Language Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model) - VLM papers, medical foundation models, benchmarks, and presentations.
 * [Awesome Vision-Language Models for Vision Tasks](https://github.com/jingyi0000/VLM_survey) - VLMs for classification, detection, segmentation, and other vision tasks.
+* [Awesome Multimodal Reasoning](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) - multimodal reasoning and RL-based visual reasoning papers, surveys, benchmarks, and datasets.
 * [Awesome Document Understanding](https://github.com/harrytea/Awesome-Document-Understanding) - document AI, OCR, layout understanding, and document-oriented MLLM resources.
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml) - classic and modern multimodal machine learning resources.
 * [MMLongBench](https://github.com/EdinburghNLP/MMLongBench) - benchmark and evaluation code for long-context vision-language models.
@@ -226,6 +228,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 ### Science, Medicine, and Quant
 
 * [Awesome AI for Science](https://github.com/ai-boost/awesome-ai-for-science) - AI tools, papers, datasets, and frameworks for scientific discovery.
+* [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - scientific language models across math, physics, chemistry, materials, biology, medicine, and geoscience.
 * [Awesome Deep Research Agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) - deep research agents, AI scientist systems, search-augmented reasoning, and research workflow papers.
 * [Awesome AI Scientist](https://github.com/ResearAI/Awesome-AI-Scientist) - survey-style collection on AI scientists, AI researchers, AI engineers, and automated research pipelines.
 * [SciAgentArena](https://sciagentarena.github.io/) - living benchmark for evaluating AI agents on real-world scientific research tasks across domains.
@@ -275,6 +278,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Terminal-Bench](https://www.tbench.ai/) - realistic terminal-agent benchmark suite spanning software engineering, ML, security, and data tasks.
 * [PaperBench](https://github.com/openai/frontier-evals/tree/main/project/paperbench) - benchmark for end-to-end replication of state-of-the-art AI papers.
 * [MLE-bench](https://github.com/openai/mle-bench) - benchmark for measuring how well AI agents perform at machine learning engineering.
+* [MLGym](https://github.com/facebookresearch/MLGym) - framework and benchmark for evaluating AI research agents on open-ended machine learning tasks.
 * [MTEB](https://github.com/embeddings-benchmark/mteb) - embedding benchmark suite and leaderboard across languages, tasks, and modalities.
 * [Simple Evals](https://github.com/openai/simple-evals) - lightweight evaluation examples and baseline eval implementations.
 * [DeepEval](https://github.com/confident-ai/deepeval) - LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.
