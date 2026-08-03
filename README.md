@@ -112,6 +112,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Document Understanding](https://github.com/harrytea/Awesome-Document-Understanding) - document AI, OCR, layout understanding, and document-oriented MLLM resources.
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml) - classic and modern multimodal machine learning resources.
 * [MMLongBench](https://github.com/EdinburghNLP/MMLongBench) - benchmark and evaluation code for long-context vision-language models.
+* [MMMU](https://github.com/MMMU-Benchmark/MMMU) - multidisciplinary multimodal understanding and reasoning benchmark with evaluation code and leaderboard.
 
 ### Diffusion and Generative Models
 
@@ -160,6 +161,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Bayesian Deep Learning Survey](https://github.com/js05212/BayesianDeepLearning-Survey) - Bayesian deep learning survey resources.
 * [Deep Learning Uncertainty](https://github.com/ahmedmalaa/deep-learning-uncertainty) - predictive uncertainty in deep learning.
 * [Awesome Online Machine Learning](https://github.com/MaxHalford/awesome-online-machine-learning) - online and streaming ML resources.
+* [Awesome Time Series Papers](https://github.com/TSCenter/awesome-time-series-papers) - recent time-series papers and code across forecasting, anomaly detection, foundation models, and representation learning.
 
 ### Data-Centric AI and Data Curation
 
@@ -259,6 +261,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Hugging Face Datasets](https://huggingface.co/datasets) - dataset hub for ML research.
 * [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - open model evaluation leaderboard.
 * [LMArena Leaderboard](https://lmarena.ai/leaderboard) - human-preference leaderboard for chat and multimodal models.
+* [LiveBench](https://livebench.ai/) - contamination-resistant LLM benchmark with refreshed objective tasks and a public leaderboard.
 * [Awesome AI Benchmarks](https://github.com/panilya/awesome-ai-benchmarks) - searchable collection of benchmarks for agents, reasoning, code, multimodal, translation, and other AI domains.
 * [Awesome LLM Eval](https://github.com/onejune2018/awesome-llm-eval) - tools, datasets, benchmarks, leaderboards, papers, and demos for LLM evaluation.
 * [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - widely used framework for evaluating language models on many benchmark tasks.
@@ -275,6 +278,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) - benchmark and evaluation harness for real-world software engineering issue resolution.
 * [SWE-Lancer](https://github.com/openai/frontier-evals/tree/main/project/swelancer) - benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.
 * [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - contamination-aware benchmark for code generation, repair, execution, and test prediction.
+* [BigCodeBench](https://github.com/bigcode-project/bigcodebench) - practical code-generation benchmark with diverse function calls, complex instructions, and a leaderboard.
 * [Terminal-Bench](https://www.tbench.ai/) - realistic terminal-agent benchmark suite spanning software engineering, ML, security, and data tasks.
 * [PaperBench](https://github.com/openai/frontier-evals/tree/main/project/paperbench) - benchmark for end-to-end replication of state-of-the-art AI papers.
 * [MLE-bench](https://github.com/openai/mle-bench) - benchmark for measuring how well AI agents perform at machine learning engineering.
