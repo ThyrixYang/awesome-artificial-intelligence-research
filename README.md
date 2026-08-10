@@ -262,17 +262,22 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - open model evaluation leaderboard.
 * [LMArena Leaderboard](https://lmarena.ai/leaderboard) - human-preference leaderboard for chat and multimodal models.
 * [LiveBench](https://livebench.ai/) - contamination-resistant LLM benchmark with refreshed objective tasks and a public leaderboard.
+* [Epoch AI Benchmarks](https://epoch.ai/benchmarks) - benchmark results hub for tracking frontier model capabilities across major evaluation suites.
 * [Awesome AI Benchmarks](https://github.com/panilya/awesome-ai-benchmarks) - searchable collection of benchmarks for agents, reasoning, code, multimodal, translation, and other AI domains.
 * [Awesome LLM Eval](https://github.com/onejune2018/awesome-llm-eval) - tools, datasets, benchmarks, leaderboards, papers, and demos for LLM evaluation.
 * [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - widely used framework for evaluating language models on many benchmark tasks.
 * [OpenAI Evals](https://github.com/openai/evals) - framework and open registry for evaluating LLMs and LLM systems.
+* [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - open-source framework for LLM, multimodal, coding, and agent evaluations.
+* [Inspect Evals](https://github.com/UKGovernmentBEIS/inspect_evals) - community collection of ready-to-run benchmark implementations for Inspect AI.
 * [OpenCompass](https://github.com/open-compass/opencompass) - open evaluation platform for LLMs and multimodal models.
 * [HELM](https://github.com/stanford-crfm/helm) - holistic evaluation framework and leaderboards for language, multimodal, safety, and domain benchmarks.
 * [GAIA](https://huggingface.co/gaia-benchmark) - benchmark and leaderboard for tool-using, multimodal, web-browsing AI assistants.
 * [BrowseComp](https://openai.com/index/browsecomp/) - benchmark for browsing agents that must locate hard-to-find information on the web.
+* [AgentBench](https://github.com/THUDM/AgentBench) - benchmark and leaderboard for evaluating LLM agents across interactive environments.
 * [WebArena](https://github.com/web-arena-x/webarena) - realistic self-hosted web environment and benchmark for autonomous web agents.
 * [OSWorld](https://github.com/xlang-ai/OSWorld) - benchmark for multimodal agents completing open-ended tasks in real computer environments.
 * [tau2-bench](https://github.com/sierra-research/tau2-bench) - tool-agent-user interaction benchmark for text and voice customer-service agents.
+* [The Agent Company](https://github.com/TheAgentCompany/TheAgentCompany) - benchmark for autonomous agents completing workplace tasks in a simulated software company.
 * [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard) - leaderboard and evaluation suite for LLM tool-use and function-calling capabilities.
 * [Humanity's Last Exam](https://lastexam.ai/) - expert-level benchmark designed to test frontier models across broad academic subjects.
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) - benchmark and evaluation harness for real-world software engineering issue resolution.
@@ -283,6 +288,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [PaperBench](https://github.com/openai/frontier-evals/tree/main/project/paperbench) - benchmark for end-to-end replication of state-of-the-art AI papers.
 * [MLE-bench](https://github.com/openai/mle-bench) - benchmark for measuring how well AI agents perform at machine learning engineering.
 * [MLGym](https://github.com/facebookresearch/MLGym) - framework and benchmark for evaluating AI research agents on open-ended machine learning tasks.
+* [SciCode](https://github.com/scicode-bench/SciCode) - scientist-curated benchmark for code generation on realistic scientific research problems.
 * [MTEB](https://github.com/embeddings-benchmark/mteb) - embedding benchmark suite and leaderboard across languages, tasks, and modalities.
 * [Simple Evals](https://github.com/openai/simple-evals) - lightweight evaluation examples and baseline eval implementations.
 * [DeepEval](https://github.com/confident-ai/deepeval) - LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.
