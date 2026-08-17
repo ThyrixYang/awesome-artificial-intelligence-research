@@ -231,6 +231,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 * [Awesome AI for Science](https://github.com/ai-boost/awesome-ai-for-science) - AI tools, papers, datasets, and frameworks for scientific discovery.
 * [Awesome Scientific Language Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) - scientific language models across math, physics, chemistry, materials, biology, medicine, and geoscience.
+* [Awesome AI for Research](https://github.com/THU-KEG/Awesome-AI-for-Research) - AI-for-research papers and systems organized by research stage, role, domain, and evaluation.
 * [Awesome Deep Research Agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) - deep research agents, AI scientist systems, search-augmented reasoning, and research workflow papers.
 * [Awesome AI Scientist](https://github.com/ResearAI/Awesome-AI-Scientist) - survey-style collection on AI scientists, AI researchers, AI engineers, and automated research pipelines.
 * [SciAgentArena](https://sciagentarena.github.io/) - living benchmark for evaluating AI agents on real-world scientific research tasks across domains.
@@ -265,6 +266,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Epoch AI Benchmarks](https://epoch.ai/benchmarks) - benchmark results hub for tracking frontier model capabilities across major evaluation suites.
 * [Awesome AI Benchmarks](https://github.com/panilya/awesome-ai-benchmarks) - searchable collection of benchmarks for agents, reasoning, code, multimodal, translation, and other AI domains.
 * [Awesome LLM Eval](https://github.com/onejune2018/awesome-llm-eval) - tools, datasets, benchmarks, leaderboards, papers, and demos for LLM evaluation.
+* [Awesome Scientific LLM Benchmarks](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) - benchmarks for evaluating LLMs on scientific reasoning, discovery, and domain knowledge.
 * [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - widely used framework for evaluating language models on many benchmark tasks.
 * [OpenAI Evals](https://github.com/openai/evals) - framework and open registry for evaluating LLMs and LLM systems.
 * [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - open-source framework for LLM, multimodal, coding, and agent evaluations.
@@ -274,6 +276,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [GAIA](https://huggingface.co/gaia-benchmark) - benchmark and leaderboard for tool-using, multimodal, web-browsing AI assistants.
 * [BrowseComp](https://openai.com/index/browsecomp/) - benchmark for browsing agents that must locate hard-to-find information on the web.
 * [AgentBench](https://github.com/THUDM/AgentBench) - benchmark and leaderboard for evaluating LLM agents across interactive environments.
+* [ARC-AGI](https://github.com/fchollet/ARC-AGI) - abstraction-and-reasoning benchmark for testing generalization on novel visual puzzle tasks.
 * [WebArena](https://github.com/web-arena-x/webarena) - realistic self-hosted web environment and benchmark for autonomous web agents.
 * [OSWorld](https://github.com/xlang-ai/OSWorld) - benchmark for multimodal agents completing open-ended tasks in real computer environments.
 * [tau2-bench](https://github.com/sierra-research/tau2-bench) - tool-agent-user interaction benchmark for text and voice customer-service agents.
@@ -289,6 +292,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [MLE-bench](https://github.com/openai/mle-bench) - benchmark for measuring how well AI agents perform at machine learning engineering.
 * [MLGym](https://github.com/facebookresearch/MLGym) - framework and benchmark for evaluating AI research agents on open-ended machine learning tasks.
 * [SciCode](https://github.com/scicode-bench/SciCode) - scientist-curated benchmark for code generation on realistic scientific research problems.
+* [AstaBench](https://allenai.org/asta/bench) - benchmark suite and leaderboards for evaluating agents on scientific research tasks.
 * [MTEB](https://github.com/embeddings-benchmark/mteb) - embedding benchmark suite and leaderboard across languages, tasks, and modalities.
 * [Simple Evals](https://github.com/openai/simple-evals) - lightweight evaluation examples and baseline eval implementations.
 * [DeepEval](https://github.com/confident-ai/deepeval) - LLM evaluation framework for unit-style tests, RAG metrics, agents, and CI workflows.
