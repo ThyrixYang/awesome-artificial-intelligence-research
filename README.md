@@ -48,6 +48,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 ### Long-Context LLMs
 
 * [Thus Spake Long-Context LLM](https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM) - survey and paper list covering long-context architecture, infrastructure, training, inference, and evaluation.
+* [RULER](https://github.com/NVIDIA/RULER) - synthetic benchmark for evaluating effective long-context language model performance across configurable tasks and sequence lengths.
 
 ### Reasoning, Post-Training, and Synthetic Data
 
@@ -112,6 +113,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Document Understanding](https://github.com/harrytea/Awesome-Document-Understanding) - document AI, OCR, layout understanding, and document-oriented MLLM resources.
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml) - classic and modern multimodal machine learning resources.
 * [MMLongBench](https://github.com/EdinburghNLP/MMLongBench) - benchmark and evaluation code for long-context vision-language models.
+* [Video-MME-v2](https://github.com/MME-Benchmarks/Video-MME-v2) - benchmark and evaluation pipeline for comprehensive video understanding in multimodal models.
 * [MMMU](https://github.com/MMMU-Benchmark/MMMU) - multidisciplinary multimodal understanding and reasoning benchmark with evaluation code and leaderboard.
 
 ### Diffusion and Generative Models
@@ -239,6 +241,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Helical](https://github.com/helicalAI/helical) - framework for using and fine-tuning bio foundation models across genomics and transcriptomics.
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) - medical image synthesis papers.
 * [Awesome AI Agents for Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) - healthcare agentic AI papers and resources.
+* [HealthBench](https://openai.com/index/healthbench/) - benchmark for evaluating AI systems on realistic health conversations with physician-written rubrics.
 * [Awesome Quant Machine Learning Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - quant trading and ML resources.
 
 ### Anomaly Detection
@@ -283,6 +286,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [The Agent Company](https://github.com/TheAgentCompany/TheAgentCompany) - benchmark for autonomous agents completing workplace tasks in a simulated software company.
 * [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard) - leaderboard and evaluation suite for LLM tool-use and function-calling capabilities.
 * [Humanity's Last Exam](https://lastexam.ai/) - expert-level benchmark designed to test frontier models across broad academic subjects.
+* [FrontierMath](https://epoch.ai/frontiermath/tiers-1-4/about) - advanced mathematical reasoning benchmark and leaderboard for evaluating frontier AI systems.
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) - benchmark and evaluation harness for real-world software engineering issue resolution.
 * [SWE-Lancer](https://github.com/openai/frontier-evals/tree/main/project/swelancer) - benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.
 * [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - contamination-aware benchmark for code generation, repair, execution, and test prediction.
