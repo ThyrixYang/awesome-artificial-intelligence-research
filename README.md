@@ -55,6 +55,8 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Inference-Time Scaling](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling) - inference/test-time compute, search, self-refinement, and verifier-guided reasoning papers.
 * [Awesome Test-Time Scaling in LLMs](https://github.com/testtimescaling/testtimescaling.github.io) - survey-oriented taxonomy and paper list for test-time scaling.
 * [Awesome LLM Post-Training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) - reasoning LLM post-training, RL, distillation, alignment, and evaluation resources.
+* [TRL](https://github.com/huggingface/trl) - Hugging Face library for SFT, DPO, GRPO, reward modeling, and RLHF post-training.
+* [verl](https://github.com/verl-project/verl) - flexible RL post-training framework for LLMs with scalable rollout and training infrastructure.
 * [Awesome LLM Synthetic Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - synthetic data generation papers, tools, and guides for LLM training and post-training.
 
 ### RAG, Search, and Knowledge-Intensive AI
@@ -276,6 +278,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Inspect Evals](https://github.com/UKGovernmentBEIS/inspect_evals) - community collection of ready-to-run benchmark implementations for Inspect AI.
 * [OpenCompass](https://github.com/open-compass/opencompass) - open evaluation platform for LLMs and multimodal models.
 * [HELM](https://github.com/stanford-crfm/helm) - holistic evaluation framework and leaderboards for language, multimodal, safety, and domain benchmarks.
+* [HAL](https://hal.cs.princeton.edu/) - standardized cost-aware leaderboard and harness for reproducible AI agent evaluation.
 * [GAIA](https://huggingface.co/gaia-benchmark) - benchmark and leaderboard for tool-using, multimodal, web-browsing AI assistants.
 * [BrowseComp](https://openai.com/index/browsecomp/) - benchmark for browsing agents that must locate hard-to-find information on the web.
 * [AgentBench](https://github.com/THUDM/AgentBench) - benchmark and leaderboard for evaluating LLM agents across interactive environments.
