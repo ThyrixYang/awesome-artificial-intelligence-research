@@ -117,6 +117,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [MMLongBench](https://github.com/EdinburghNLP/MMLongBench) - benchmark and evaluation code for long-context vision-language models.
 * [Video-MME-v2](https://github.com/MME-Benchmarks/Video-MME-v2) - benchmark and evaluation pipeline for comprehensive video understanding in multimodal models.
 * [MMMU](https://github.com/MMMU-Benchmark/MMMU) - multidisciplinary multimodal understanding and reasoning benchmark with evaluation code and leaderboard.
+* [MathVista](https://github.com/lupantech/MathVista) - benchmark, dataset, and leaderboard for mathematical reasoning in visual contexts.
 
 ### Diffusion and Generative Models
 
@@ -241,6 +242,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [SciAgentArena](https://sciagentarena.github.io/) - living benchmark for evaluating AI agents on real-world scientific research tasks across domains.
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) - deep learning for computational biology.
 * [Helical](https://github.com/helicalAI/helical) - framework for using and fine-tuning bio foundation models across genomics and transcriptomics.
+* [ChemBench](https://github.com/lamalab-org/chembench) - benchmark suite and evaluation package for chemistry-focused language and multimodal models.
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging) - medical image synthesis papers.
 * [Awesome AI Agents for Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) - healthcare agentic AI papers and resources.
 * [HealthBench](https://openai.com/index/healthbench/) - benchmark for evaluating AI systems on realistic health conversations with physician-written rubrics.
@@ -269,6 +271,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [LMArena Leaderboard](https://lmarena.ai/leaderboard) - human-preference leaderboard for chat and multimodal models.
 * [LiveBench](https://livebench.ai/) - contamination-resistant LLM benchmark with refreshed objective tasks and a public leaderboard.
 * [Epoch AI Benchmarks](https://epoch.ai/benchmarks) - benchmark results hub for tracking frontier model capabilities across major evaluation suites.
+* [Artificial Analysis](https://artificialanalysis.ai/) - independent benchmark hub for language, multimodal, speech, agent, provider, and hardware comparisons.
 * [Awesome AI Benchmarks](https://github.com/panilya/awesome-ai-benchmarks) - searchable collection of benchmarks for agents, reasoning, code, multimodal, translation, and other AI domains.
 * [Awesome LLM Eval](https://github.com/onejune2018/awesome-llm-eval) - tools, datasets, benchmarks, leaderboards, papers, and demos for LLM evaluation.
 * [Awesome Scientific LLM Benchmarks](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) - benchmarks for evaluating LLMs on scientific reasoning, discovery, and domain knowledge.
@@ -284,6 +287,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [AgentBench](https://github.com/THUDM/AgentBench) - benchmark and leaderboard for evaluating LLM agents across interactive environments.
 * [ARC-AGI](https://github.com/fchollet/ARC-AGI) - abstraction-and-reasoning benchmark for testing generalization on novel visual puzzle tasks.
 * [WebArena](https://github.com/web-arena-x/webarena) - realistic self-hosted web environment and benchmark for autonomous web agents.
+* [BrowserGym](https://github.com/ServiceNow/BrowserGym) - extensible Gym environment for web-agent research with packaged browser automation benchmarks.
 * [OSWorld](https://github.com/xlang-ai/OSWorld) - benchmark for multimodal agents completing open-ended tasks in real computer environments.
 * [tau2-bench](https://github.com/sierra-research/tau2-bench) - tool-agent-user interaction benchmark for text and voice customer-service agents.
 * [The Agent Company](https://github.com/TheAgentCompany/TheAgentCompany) - benchmark for autonomous agents completing workplace tasks in a simulated software company.
