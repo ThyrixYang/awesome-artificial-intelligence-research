@@ -116,6 +116,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml) - classic and modern multimodal machine learning resources.
 * [MMLongBench](https://github.com/EdinburghNLP/MMLongBench) - benchmark and evaluation code for long-context vision-language models.
 * [Video-MME-v2](https://github.com/MME-Benchmarks/Video-MME-v2) - benchmark and evaluation pipeline for comprehensive video understanding in multimodal models.
+* [ZeroBench](https://zerobench.github.io/) - challenging visual reasoning benchmark, dataset, and leaderboard for large multimodal models.
 * [MMMU](https://github.com/MMMU-Benchmark/MMMU) - multidisciplinary multimodal understanding and reasoning benchmark with evaluation code and leaderboard.
 * [MathVista](https://github.com/lupantech/MathVista) - benchmark, dataset, and leaderboard for mathematical reasoning in visual contexts.
 
@@ -240,6 +241,8 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Deep Research Agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) - deep research agents, AI scientist systems, search-augmented reasoning, and research workflow papers.
 * [Awesome AI Scientist](https://github.com/ResearAI/Awesome-AI-Scientist) - survey-style collection on AI scientists, AI researchers, AI engineers, and automated research pipelines.
 * [SciAgentArena](https://sciagentarena.github.io/) - living benchmark for evaluating AI agents on real-world scientific research tasks across domains.
+* [ScienceAgentBench](https://github.com/OSU-NLP-Group/ScienceAgentBench) - benchmark and evaluation harness for language agents on data-driven scientific discovery tasks.
+* [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science) - terminal-agent benchmark for expert-curated scientific research workflows across domains.
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) - deep learning for computational biology.
 * [Helical](https://github.com/helicalAI/helical) - framework for using and fine-tuning bio foundation models across genomics and transcriptomics.
 * [ChemBench](https://github.com/lamalab-org/chembench) - benchmark suite and evaluation package for chemistry-focused language and multimodal models.
@@ -320,4 +323,5 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/) - computer vision fundamentals.
 * [CS224N Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) - NLP and language model foundations.
 * [CS324 Large Language Models](https://stanford-cs324.github.io/winter2022/) - large language model concepts, training, evaluation, and societal impact.
+* [CS336 Language Modeling from Scratch](https://cs336.stanford.edu/) - implementation-heavy Stanford course on building, training, scaling, and evaluating language models.
 * [Berkeley CS285 Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/) - deep RL lectures and assignments.
