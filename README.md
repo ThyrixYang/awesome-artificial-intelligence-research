@@ -57,6 +57,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome LLM Post-Training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) - reasoning LLM post-training, RL, distillation, alignment, and evaluation resources.
 * [TRL](https://github.com/huggingface/trl) - Hugging Face library for SFT, DPO, GRPO, reward modeling, and RLHF post-training.
 * [verl](https://github.com/verl-project/verl) - flexible RL post-training framework for LLMs with scalable rollout and training infrastructure.
+* [Open R1](https://github.com/huggingface/open-r1) - open reproduction project for DeepSeek-R1 training, evaluation, and synthetic reasoning data.
 * [Awesome LLM Synthetic Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - synthetic data generation papers, tools, and guides for LLM training and post-training.
 
 ### RAG, Search, and Knowledge-Intensive AI
@@ -283,6 +284,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - open-source framework for LLM, multimodal, coding, and agent evaluations.
 * [Inspect Evals](https://github.com/UKGovernmentBEIS/inspect_evals) - community collection of ready-to-run benchmark implementations for Inspect AI.
 * [OpenCompass](https://github.com/open-compass/opencompass) - open evaluation platform for LLMs and multimodal models.
+* [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - open-source toolkit for evaluating large vision-language models across many multimodal benchmarks.
 * [HELM](https://github.com/stanford-crfm/helm) - holistic evaluation framework and leaderboards for language, multimodal, safety, and domain benchmarks.
 * [HAL](https://hal.cs.princeton.edu/) - standardized cost-aware leaderboard and harness for reproducible AI agent evaluation.
 * [GAIA](https://huggingface.co/gaia-benchmark) - benchmark and leaderboard for tool-using, multimodal, web-browsing AI assistants.
@@ -292,12 +294,14 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [WebArena](https://github.com/web-arena-x/webarena) - realistic self-hosted web environment and benchmark for autonomous web agents.
 * [BrowserGym](https://github.com/ServiceNow/BrowserGym) - extensible Gym environment for web-agent research with packaged browser automation benchmarks.
 * [OSWorld](https://github.com/xlang-ai/OSWorld) - benchmark for multimodal agents completing open-ended tasks in real computer environments.
+* [AndroidWorld](https://github.com/google-research/android_world) - environment and benchmark for autonomous agents operating Android apps through an emulator.
 * [tau2-bench](https://github.com/sierra-research/tau2-bench) - tool-agent-user interaction benchmark for text and voice customer-service agents.
 * [The Agent Company](https://github.com/TheAgentCompany/TheAgentCompany) - benchmark for autonomous agents completing workplace tasks in a simulated software company.
 * [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard) - leaderboard and evaluation suite for LLM tool-use and function-calling capabilities.
 * [Humanity's Last Exam](https://lastexam.ai/) - expert-level benchmark designed to test frontier models across broad academic subjects.
 * [FrontierMath](https://epoch.ai/frontiermath/tiers-1-4/about) - advanced mathematical reasoning benchmark and leaderboard for evaluating frontier AI systems.
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) - benchmark and evaluation harness for real-world software engineering issue resolution.
+* [SWE-bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os) - long-horizon software engineering benchmark for agents on larger production codebases.
 * [SWE-Lancer](https://github.com/openai/frontier-evals/tree/main/project/swelancer) - benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.
 * [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - contamination-aware benchmark for code generation, repair, execution, and test prediction.
 * [BigCodeBench](https://github.com/bigcode-project/bigcodebench) - practical code-generation benchmark with diverse function calls, complex instructions, and a leaderboard.
