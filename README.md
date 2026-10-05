@@ -71,6 +71,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 
 * [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - autonomous agent projects and resources.
 * [Awesome AI Agent Papers](https://github.com/VoltAgent/awesome-ai-agent-papers) - weekly updated 2026 agent research papers on memory, tools, evaluation, workflows, and security.
+* [Awesome LLM Agent Evaluation](https://github.com/vnageshwaran-de/Awesome-LLM-Agent-Evaluation) - living survey companion and benchmark corpus for LLM-agent evaluation.
 * [Awesome Code Agents](https://github.com/euniai/awesome-code-agents) - coding agents, software engineering agents, benchmarks, and research papers.
 * [Awesome GUI Agent](https://github.com/showlab/awesome-gui-agent) - papers and resources for multimodal GUI, browser, and computer-use agents.
 * [Awesome Computer Use](https://github.com/ranpox/awesome-computer-use) - computer-use GUI agent papers, projects, blogs, and benchmarks.
@@ -244,6 +245,8 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [SciAgentArena](https://sciagentarena.github.io/) - living benchmark for evaluating AI agents on real-world scientific research tasks across domains.
 * [ScienceAgentBench](https://github.com/OSU-NLP-Group/ScienceAgentBench) - benchmark and evaluation harness for language agents on data-driven scientific discovery tasks.
 * [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science) - terminal-agent benchmark for expert-curated scientific research workflows across domains.
+* [AIRS-Bench](https://github.com/facebookresearch/airs-bench) - benchmark and evaluation code for AI research science agents on tasks from machine learning papers.
+* [FrontierScience](https://openai.com/index/frontierscience/) - expert-level scientific reasoning benchmark across physics, chemistry, and biology.
 * [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio) - deep learning for computational biology.
 * [Helical](https://github.com/helicalAI/helical) - framework for using and fine-tuning bio foundation models across genomics and transcriptomics.
 * [ChemBench](https://github.com/lamalab-org/chembench) - benchmark suite and evaluation package for chemistry-focused language and multimodal models.
@@ -308,6 +311,7 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Terminal-Bench](https://www.tbench.ai/) - realistic terminal-agent benchmark suite spanning software engineering, ML, security, and data tasks.
 * [PaperBench](https://github.com/openai/frontier-evals/tree/main/project/paperbench) - benchmark for end-to-end replication of state-of-the-art AI papers.
 * [MLE-bench](https://github.com/openai/mle-bench) - benchmark for measuring how well AI agents perform at machine learning engineering.
+* [RE-Bench](https://github.com/METR/RE-Bench) - benchmark for evaluating AI agents on frontier AI research and development tasks against human experts.
 * [MLGym](https://github.com/facebookresearch/MLGym) - framework and benchmark for evaluating AI research agents on open-ended machine learning tasks.
 * [SciCode](https://github.com/scicode-bench/SciCode) - scientist-curated benchmark for code generation on realistic scientific research problems.
 * [AstaBench](https://allenai.org/asta/bench) - benchmark suite and leaderboards for evaluating agents on scientific research tasks.
