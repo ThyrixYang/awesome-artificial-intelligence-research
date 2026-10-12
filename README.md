@@ -114,11 +114,13 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [Awesome Large Vision-Language Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model) - VLM papers, medical foundation models, benchmarks, and presentations.
 * [Awesome Vision-Language Models for Vision Tasks](https://github.com/jingyi0000/VLM_survey) - VLMs for classification, detection, segmentation, and other vision tasks.
 * [Awesome Multimodal Reasoning](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) - multimodal reasoning and RL-based visual reasoning papers, surveys, benchmarks, and datasets.
+* [Awesome Multimodal Foundation Model Evaluations](https://github.com/yuanyehome/Awesome-Multimodal-Evaluation-Papers) - survey companion and paper list for evaluating multimodal foundation models.
 * [Awesome Document Understanding](https://github.com/harrytea/Awesome-Document-Understanding) - document AI, OCR, layout understanding, and document-oriented MLLM resources.
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml) - classic and modern multimodal machine learning resources.
 * [MMLongBench](https://github.com/EdinburghNLP/MMLongBench) - benchmark and evaluation code for long-context vision-language models.
 * [Video-MME-v2](https://github.com/MME-Benchmarks/Video-MME-v2) - benchmark and evaluation pipeline for comprehensive video understanding in multimodal models.
 * [ZeroBench](https://zerobench.github.io/) - challenging visual reasoning benchmark, dataset, and leaderboard for large multimodal models.
+* [WorldBench](https://github.com/zlab-princeton/WorldBench) - visually diverse multimodal reasoning benchmark with evaluation code for large multimodal models.
 * [MMMU](https://github.com/MMMU-Benchmark/MMMU) - multidisciplinary multimodal understanding and reasoning benchmark with evaluation code and leaderboard.
 * [MathVista](https://github.com/lupantech/MathVista) - benchmark, dataset, and leaderboard for mathematical reasoning in visual contexts.
 
@@ -300,10 +302,12 @@ A curated meta-list of AI research paper lists, surveys, benchmarks, model hubs,
 * [AndroidWorld](https://github.com/google-research/android_world) - environment and benchmark for autonomous agents operating Android apps through an emulator.
 * [tau2-bench](https://github.com/sierra-research/tau2-bench) - tool-agent-user interaction benchmark for text and voice customer-service agents.
 * [The Agent Company](https://github.com/TheAgentCompany/TheAgentCompany) - benchmark for autonomous agents completing workplace tasks in a simulated software company.
+* [AutomationBench](https://github.com/zapier/AutomationBench) - benchmark for evaluating AI agents on realistic business workflows across simulated SaaS tools.
 * [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard) - leaderboard and evaluation suite for LLM tool-use and function-calling capabilities.
 * [Humanity's Last Exam](https://lastexam.ai/) - expert-level benchmark designed to test frontier models across broad academic subjects.
 * [FrontierMath](https://epoch.ai/frontiermath/tiers-1-4/about) - advanced mathematical reasoning benchmark and leaderboard for evaluating frontier AI systems.
 * [SWE-bench](https://github.com/SWE-bench/SWE-bench) - benchmark and evaluation harness for real-world software engineering issue resolution.
+* [SWE-bench Multimodal](https://www.swebench.com/multimodal.html) - benchmark for software engineering agents on real-world issues with visual elements.
 * [SWE-bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os) - long-horizon software engineering benchmark for agents on larger production codebases.
 * [SWE-Lancer](https://github.com/openai/frontier-evals/tree/main/project/swelancer) - benchmark of real freelance software engineering tasks with end-to-end tests and managerial decisions.
 * [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) - contamination-aware benchmark for code generation, repair, execution, and test prediction.
